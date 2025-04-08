@@ -11,17 +11,18 @@ namespace VulnAnalyser.Analyzers
 {
     internal class Sqlinjections : CSharpSyntaxWalker
     {
-        Program.Creationnoeud;
-
 
         public override void VisitObjectCreationExpression(ObjectCreationExpressionSyntax node)
         {
             var typeName = node.Type.ToString();
             if (typeName.Contains("SqlCommand"))
             {
-                Console.WriteLine($"⚠️ SqlCommand détecté : {node.GetLocation().GetLineSpan().StartLinePosition}");
+                var line = node.GetLocation().GetLineSpan().StartLinePosition.Line + 1;
+                Console.WriteLine($"SqlCommand détecté à la ligne {line}");
             }
             base.VisitObjectCreationExpression(node);
         }
+
     }
-}
+}  
+
