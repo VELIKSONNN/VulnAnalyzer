@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\romai\\Documents\\GitHub\\VulnAnalyzer\\VulnAnalyser\\VulnAnalyser.csproj": {}
+    "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\VulnAnalyser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\romai\\Documents\\GitHub\\VulnAnalyzer\\VulnAnalyser\\VulnAnalyser.csproj": {
+    "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\VulnAnalyser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\romai\\Documents\\GitHub\\VulnAnalyzer\\VulnAnalyser\\VulnAnalyser.csproj",
+        "projectUniqueName": "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\VulnAnalyser.csproj",
         "projectName": "VulnAnalyser",
-        "projectPath": "C:\\Users\\romai\\Documents\\GitHub\\VulnAnalyzer\\VulnAnalyser\\VulnAnalyser.csproj",
-        "packagesPath": "C:\\Users\\romai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\romai\\Documents\\GitHub\\VulnAnalyzer\\VulnAnalyser\\obj\\",
+        "projectPath": "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\VulnAnalyser.csproj",
+        "packagesPath": "C:\\Users\\enfants\\.nuget\\packages\\",
+        "outputPath": "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\romai\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\enfants\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,30 +67,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.19, 7.0.19]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.19, 7.0.19]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.19, 7.0.19]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.19, 7.0.19]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

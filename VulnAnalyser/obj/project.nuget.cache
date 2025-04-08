@@ -1,24 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "/gryEyeheCufL/fythSCa6bcgqAl+AX5RitcO7PFECwjX6f3bieYz2n8hQKBfacvgnzLlcT1fHZsLH8XmXz9Fg==",
+  "dgSpecHash": "hW6JDgOkkRcEDXxBlN4OsooKPigWRctFXrpz4bm6OYKO2sRfinRM6ejiNso/NxfjBpEOf8CK1O4h9PcLUkKrdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\romai\\Documents\\GitHub\\VulnAnalyzer\\VulnAnalyser\\VulnAnalyser.csproj",
+  "projectFilePath": "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\VulnAnalyser.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\romai\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.11.0\\microsoft.codeanalysis.analyzers.3.11.0.nupkg.sha512",
-    "C:\\Users\\romai\\.nuget\\packages\\microsoft.codeanalysis.common\\4.13.0\\microsoft.codeanalysis.common.4.13.0.nupkg.sha512",
-    "C:\\Users\\romai\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.13.0\\microsoft.codeanalysis.csharp.4.13.0.nupkg.sha512",
-    "C:\\Users\\romai\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
-    "C:\\Users\\romai\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
-    "C:\\Users\\romai\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
-    "C:\\Users\\romai\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\romai\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512",
-    "C:\\Users\\romai\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\romai\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512",
-    "C:\\Users\\romai\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\romai\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
-    "C:\\Users\\romai\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
-    "C:\\Users\\romai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
-    "C:\\Users\\romai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.19\\microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512"
+    "C:\\Users\\enfants\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.11.0\\microsoft.codeanalysis.analyzers.3.11.0.nupkg.sha512",
+    "C:\\Users\\enfants\\.nuget\\packages\\microsoft.codeanalysis.common\\4.13.0\\microsoft.codeanalysis.common.4.13.0.nupkg.sha512",
+    "C:\\Users\\enfants\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.13.0\\microsoft.codeanalysis.csharp.4.13.0.nupkg.sha512",
+    "C:\\Users\\enfants\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\enfants\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\enfants\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\enfants\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\enfants\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512",
+    "C:\\Users\\enfants\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\enfants\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512",
+    "C:\\Users\\enfants\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }

@@ -11,13 +11,8 @@ namespace VulnAnalyser.Analyzers
 {
     internal class Sqlinjections : CSharpSyntaxWalker
     {
-        static SyntaxNode Creationnoeud()
-        {
-            var code = File.ReadAllText("Test.cs");
-             var syntaxTree = CSharpSyntaxTree.ParseText(code); // permet d'avoir un arbres de toutes la syntax d'un fichiers ( déclaration d'une variable, assignation de valeur etc)
-              var root = syntaxTree.GetRoot(); // SyntaxNode
-            return root;
-        }
+        Program.Creationnoeud;
+
 
         public override void VisitObjectCreationExpression(ObjectCreationExpressionSyntax node)
         {
