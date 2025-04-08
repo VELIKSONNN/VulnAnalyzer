@@ -1,0 +1,6 @@
+C:\Users\romai\Documents\GitHub\VulnAnalyzer\VulnAnalyser\obj\Debug\net7.0\VulnAnalyser.csproj.AssemblyReference.cache
+C:\Users\romai\Documents\GitHub\VulnAnalyzer\VulnAnalyser\obj\Debug\net7.0\VulnAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romai\Documents\GitHub\VulnAnalyzer\VulnAnalyser\obj\Debug\net7.0\VulnAnalyser.AssemblyInfoInputs.cache
+C:\Users\romai\Documents\GitHub\VulnAnalyzer\VulnAnalyser\obj\Debug\net7.0\VulnAnalyser.AssemblyInfo.cs
+C:\Users\romai\Documents\GitHub\VulnAnalyzer\VulnAnalyser\obj\Debug\net7.0\VulnAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\romai\Documents\GitHub\VulnAnalyzer\VulnAnalyser\obj\Debug\net7.0\VulnAnalyser.sourcelink.json
