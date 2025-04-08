@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{76633DC8-4B07-443F-84BE-7511AB06B789}|VulnAnalyser.csproj|f:\\ecole\\github\\vulnanalyzer\\vulnanalyser\\analyzers\\sqlinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76633DC8-4B07-443F-84BE-7511AB06B789}|VulnAnalyser.csproj|solutionrelative:analyzers\\sqlinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{76633DC8-4B07-443F-84BE-7511AB06B789}|VulnAnalyser.csproj|f:\\ecole\\github\\vulnanalyzer\\vulnanalyser\\models\\vulnerability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76633DC8-4B07-443F-84BE-7511AB06B789}|VulnAnalyser.csproj|solutionrelative:models\\vulnerability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Sqlinjections.cs",
+              "DocumentMoniker": "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\Analyzers\\Sqlinjections.cs",
+              "RelativeDocumentMoniker": "Analyzers\\Sqlinjections.cs",
+              "ToolTip": "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\Analyzers\\Sqlinjections.cs",
+              "RelativeToolTip": "Analyzers\\Sqlinjections.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:43:46.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "vulnerability.cs",
               "DocumentMoniker": "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\Models\\vulnerability.cs",
               "RelativeDocumentMoniker": "Models\\vulnerability.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "reportgenerator.cs",
               "DocumentMoniker": "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\Report\\reportgenerator.cs",
               "RelativeDocumentMoniker": "Report\\reportgenerator.cs",
@@ -52,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
