@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76633DC8-4B07-443F-84BE-7511AB06B789}|VulnAnalyser.csproj|f:\\ecole\\github\\vulnanalyzer\\vulnanalyser\\models\\vulnerability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76633DC8-4B07-443F-84BE-7511AB06B789}|VulnAnalyser.csproj|solutionrelative:models\\vulnerability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76633DC8-4B07-443F-84BE-7511AB06B789}|VulnAnalyser.csproj|f:\\ecole\\github\\vulnanalyzer\\vulnanalyser\\report\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76633DC8-4B07-443F-84BE-7511AB06B789}|VulnAnalyser.csproj|solutionrelative:report\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76633DC8-4B07-443F-84BE-7511AB06B789}|VulnAnalyser.csproj|f:\\ecole\\github\\vulnanalyzer\\vulnanalyser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76633DC8-4B07-443F-84BE-7511AB06B789}|VulnAnalyser.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vulnerability.cs",
+              "DocumentMoniker": "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\Models\\vulnerability.cs",
+              "RelativeDocumentMoniker": "Models\\vulnerability.cs",
+              "ToolTip": "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\Models\\vulnerability.cs",
+              "RelativeToolTip": "Models\\vulnerability.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:02:17.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "reportgenerator.cs",
+              "DocumentMoniker": "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\Report\\reportgenerator.cs",
+              "RelativeDocumentMoniker": "Report\\reportgenerator.cs",
+              "ToolTip": "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\Report\\reportgenerator.cs",
+              "RelativeToolTip": "Report\\reportgenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:01:46.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:52:15.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
