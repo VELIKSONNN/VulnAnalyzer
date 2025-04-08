@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VulnAnalyser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af85559318fdae9f0cb734ef2f0ee08729594ef4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0c4c157e579fb0239bf3da698328157132a977d")]
 [assembly: System.Reflection.AssemblyProductAttribute("VulnAnalyser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VulnAnalyser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
