@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Models\\vulnerability.cs",
               "ToolTip": "F:\\ECOLE\\GITHUB\\VulnAnalyzer\\VulnAnalyser\\Models\\vulnerability.cs",
               "RelativeToolTip": "Models\\vulnerability.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T11:02:17.599Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Report\\reportgenerator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T11:01:46.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T11:01:46.946Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T10:52:15.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T10:52:15.808Z"
             }
           ]
         }
