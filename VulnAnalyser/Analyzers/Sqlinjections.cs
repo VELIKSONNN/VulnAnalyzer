@@ -9,10 +9,8 @@ using System.Threading.Tasks;
 
 namespace VulnAnalyser.Analyzers
 {
-    internal class Sqlinjections
+    internal class Sqlinjections : CSharpSyntaxWalker
     {
-      
-
         static SyntaxNode Creationnoeud()
         {
             var code = File.ReadAllText("Test.cs");
@@ -30,6 +28,5 @@ namespace VulnAnalyser.Analyzers
             }
             base.VisitObjectCreationExpression(node);
         }
-
     }
 }
